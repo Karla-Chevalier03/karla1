@@ -1,0 +1,26 @@
+.Enfermedades {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+
+
+.wave_bottom{
+    transform: scaleY(-1);
+}
+
+.Enfermedades-title{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-size: 30px;
+    margin: 25px;
+}
+
+.Enfermedad1{
+    font-size: 25px;
+    font-weight: bold;
+    color: var(--secundary-color);
+}
+

@@ -1,0 +1,27 @@
+.alimetacion-title {
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.alimetacion {
+    display: flex;
+    flex-direction: column;
+}
+
+.ola_bottom {
+    transform: scaleY(-1);
+}
+
+/*PIE DE PAGINA*/
+footer {
+    max-width: 3000px;
+    padding: 30px;
+    background:var(--primary-color);
+    margin: 0 auto;
+    border-radius: 0 0 20px 20px;
+    color: var(--text-color-inverse);
+    text-align: right;
+}
+/*PIE DE PAGINA*/
